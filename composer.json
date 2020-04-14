@@ -1,6 +1,6 @@
 {
     "name": "hasinhayder/stringutility",
-    "description": "Demo Composer Package To Demonstrate Multi Fike Project Structure And Autoloading",
+    "description": "Demo Composer Package To Demonstrate Multi File Project Structure And Autoloading",
     "type": "library",
     "license": "MIT License",
     "authors": [
